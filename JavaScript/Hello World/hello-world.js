@@ -6,3 +6,7 @@
 export const hello = () => {
     return "Hello, World!"
   };
+
+  a = 5;
+  b = 10;
+  console.log(a*b);
